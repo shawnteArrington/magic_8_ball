@@ -1,0 +1,23 @@
+{
+  "name": "magic_8_ball_api",
+  "version": "1.0.0",
+  "description": "random answers to life's deepest questions",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/shawnteArrington"
+  },
+  "keywords": [
+    "random",
+    "fun",
+    "magic"
+  ],
+  "author": "Shawnte Arrington",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
